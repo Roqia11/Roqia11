@@ -18,13 +18,16 @@ I believe data should *speak*, not just sit in spreadsheets.
 
 
 ###  Recent Work Highlights
+Recent Work Highlights
 
-- 📍 Automated weekly KPI reports that reduced manual work by **70%**  
-- 📍 Built a **sales analysis dashboard** that helped increase regional conversion by **15%**  
-- 📍 Developed HR attrition visualizations that saved 5 hours of monthly analysis time  
-- 📍 Explored healthcare and e-commerce datasets to discover customer retention trends
+-  **Shifa Platform**: Developed a machine learning-based system for early cardiovascular disease detection. Contributed to data preprocessing and predictive modeling (Graduation Project – *Excellent with Honors, 98%*)  
+- Analyzed **movies datasets** using Python libraries and created interactive dashboards with Power BI (Amit Learning)  
+- Built a **Sales Dashboard** to uncover trends in revenue and customer behavior, aiding marketing decisions  
+- Visualized **Uber trip data** to identify booking trends by time, location, and vehicle type  
+- Developed a **Covid-19 Dashboard** to track infection metrics and highlight high-risk regions  
+- Explored **Marketing Campaign** performance across regions, helping improve ROI and targeting strategies  
+- Designed an **HR Analytics Dashboard** to monitor attrition and support employee retention planning  
 
----
 
 ###  I'm Passionate About
 
@@ -35,8 +38,9 @@ I believe data should *speak*, not just sit in spreadsheets.
 
 ---
 
-### 📬 Let's Connect
+###  Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/roqia-adel-66s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app])
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](roqaiaadel66@gmail.com)
+
+| LinkedIn   | [[linkedin.com/in/roqiadel](http://linkedin.com/in/roqia-adel-66s)](https://linkedin.com/in/roqiadel) |
+| 📧 Email      | roqaiaadel66@gmail.com |
 
