@@ -17,7 +17,7 @@ I believe data should *speak*, not just sit in spreadsheets.
 | Power Query| Matplotlib       | VS Code        |
 
 
-### 📈 Recent Work Highlights
+###  Recent Work Highlights
 
 - 📍 Automated weekly KPI reports that reduced manual work by **70%**  
 - 📍 Built a **sales analysis dashboard** that helped increase regional conversion by **15%**  
@@ -26,7 +26,7 @@ I believe data should *speak*, not just sit in spreadsheets.
 
 ---
 
-### 🧠 I'm Passionate About
+###  I'm Passionate About
 
 - Making data **understandable for everyone** — not just analysts  
 - Blending **aesthetics and accuracy** in dashboards  
@@ -37,6 +37,6 @@ I believe data should *speak*, not just sit in spreadsheets.
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([رابط-لينكدإن-بتاعك](https://www.linkedin.com/in/roqia-adel-66s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/roqia-adel-66s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app])
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](roqaiaadel66@gmail.com)
 
