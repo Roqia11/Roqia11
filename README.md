@@ -41,6 +41,6 @@ Recent Work Highlights
 ###  Let's Connect
 
 
-| LinkedIn   | [[linkedin.com/in/roqiadel](http://linkedin.com/in/roqia-adel-66s)](https://linkedin.com/in/roqiadel) |
-| 📧 Email      | roqaiaadel66@gmail.com |
+LinkedIn   | [[linkedin.com/in/roqiadel](http://linkedin.com/in/roqia-adel-66s)] 
+Email      | roqaiaadel66@gmail.com 
 
