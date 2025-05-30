@@ -1,6 +1,6 @@
 ## Hi , I'm Roqia Adel
 
-## Data Analyst | Power BI Developer
+## Data Analyst | Power BI Engineer
 
 ## About Me
 I'm a **Data Analyst** with hands-on experience in transforming messy data into clean, interactive dashboards that tell powerful stories.  
